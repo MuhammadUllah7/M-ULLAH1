@@ -112,7 +112,7 @@ except ValueError:
 
     exit()
 
-if not os.path.isfile('/sdcard/Download/python_13.1'):
+
 
 	
 
