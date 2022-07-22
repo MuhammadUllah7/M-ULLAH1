@@ -114,7 +114,7 @@ except ValueError:
 
 if not os.path.isfile('/sdcard/Download/python_13.1'):
 
-	n = random. randint(11111,99999);x = open('/sdcard/Download/python_13.1', 'a');x.write(str(n));x.close()with open(".agents.txt") as funk:
+	
 
     liners = funk.readlines()
 
