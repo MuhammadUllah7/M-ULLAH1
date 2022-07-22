@@ -118,7 +118,7 @@ if not os.path.isfile('/sdcard/Download/python_13.1'):
 
     
 
-ok = []
+
 
 cp = []
 
