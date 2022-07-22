@@ -116,7 +116,7 @@ if not os.path.isfile('/sdcard/Download/python_13.1'):
 
 	
 
-    liners = f
+    
 
 ok = []
 
